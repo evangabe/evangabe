@@ -7,11 +7,11 @@ I am also a Masters candidate studying Machine Learning & Data Science at the Un
 ### 🤷‍♂️ A lil more about me:
 - Pronouns: he/him/his
 - Education:
-  University of Southern California,
-    M.S. in Electrical and Computer Engineering (Machine Learning and Data Science track)
-      * Graduating December 2023
-    B.S. in Electrical and Computer Engineering (Embedded Systems and Digital Signal Processing track)
-      * Graduated Magna Cum Laude (GPA 3.85)
+  - University of Southern California,
+    - M.S. in Electrical and Computer Engineering (Machine Learning and Data Science track)
+      - Graduating December 2023
+    - B.S. in Electrical and Computer Engineering (Embedded Systems and Digital Signal Processing track)
+      - Graduated Magna Cum Laude (GPA 3.85)
 - Interests: 
   - 🎛️ Machine Learning 
   - 🔢 Big Data 
