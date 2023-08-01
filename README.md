@@ -4,6 +4,8 @@ In December 2021, I started working as a developer at CarbonLink Inc., a sustain
 
 I am also a Masters candidate studying Machine Learning & Data Science at the University of Southern California (USC). Go Trojans!
 
+[Link to Evan_Gabrielson_CV](https://github.com/evangabe/evangabe/blob/623fefbe6640e6bfcbbf8a82b890c8af4d2434a5/Evan_Gabrielson_CV.pdf)
+
 ### 🤷‍♂️ A lil more about me:
 - Pronouns: he/him/his
 - Education:
