@@ -11,6 +11,7 @@ At Carbonlink, I served as Chief Technology Officer (CTO) for 1.5 years with res
 University of Southern California, GPA 3.83
   - Masters of Science (M.S.) in Electrical and Computer Engineering (Machine Learning and Data Science track)
     - Graduated Magna Cum Laude
+
 University of Southern California, GPA 3.85
   - Bachelors of Science (B.S.) in Electrical and Computer Engineering (Digital Signal Processing track)
     - Graduated Magna Cum Laude
