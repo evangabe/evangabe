@@ -28,6 +28,6 @@ University of Southern California, GPA 3.85 (Magna Cum Laude)
 
 ### Actively Learning:
 
-  - 🌐📶 (Kolmogorov-Arnold Networks)[https://arxiv.org/pdf/2404.19756]
+  - 🌐📶 [Kolmogorov-Arnold Networks](https://arxiv.org/pdf/2404.19756)
   - 🦀✨ Rust
   - 🇮🇹🤌 Italian Language
