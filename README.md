@@ -1,5 +1,6 @@
 ## 😊 Welcome, I'm Evan Gabrielson! 😊 
 
+Looking for my CV? [Click here](https://github.com/evangabe/evangabe/blob/dee5c24a727a2ea39c9132c0c95db1e79de97dbc/EG_2024_2.pdf)
 
 ### Founding and operating Carbonlink Inc. 🌿
 I founded [Carbonlink](https://www.carbonlink.io/) alongside [Mitchell Morrison](https://www.linkedin.com/in/mitchell-morrison2024/) and [Richard Zhang](https://www.linkedin.com/in/richard-zhang139/) at the University of Southern California, in Los Angeles. Carbonlink was a startup in the Climate Technology space focused improving access to, and transparency within the Carbon Credit Market ♻️📈.
