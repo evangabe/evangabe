@@ -11,7 +11,7 @@ I founded [Carbonlink](https://www.carbonlink.io/) alongside [Mitchell Morrison]
 
 In January 2024, operations at Carbonlink Inc. ceased due to budgetary restrictions and weak signals for short-term profitability in our corner of the Climate Technology space.
 
-_Looking for my CV?_ [Click here](https://github.com/evangabe/evangabe/blob/f7868a6c2d3eca06fc35541797aaa6400ed66a93/EG_2024_4.pdf)
+_Looking for my CV?_ [Click here](https://github.com/evangabe/evangabe/blob/38f0f50c9992b51e15aef9decf9c35c7d29249b7/EG_2024_5_ml_ds.pdf)
 
 ---
 
