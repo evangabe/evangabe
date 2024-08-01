@@ -33,34 +33,23 @@ _Looking for my CV?_ [Click here](https://github.com/evangabe/evangabe/blob/38f0
 
 ### Datum Technologies Corporation, Los Angeles, CA
 **Senior Software Engineer - Data Pipelines**, *January 2024 - May 2024*
-- Accelerated lease abstraction process using AWS S3, Textract, and Document QA inference with LangChain RAG, GPT-4 Turbo, and Pinecone Vector DB.
-- Developed PDF annotation interface to improve data extraction accuracy to 99%.
-- Led scope, timeline, and business-impact analysis for an automated lease abstraction tool.
 
 ### Carbonlink Incorporated, Los Angeles, CA
 **Founder and Chief Technology Officer**, *December 2021 - January 2024*
-- Launched a B2B platform for carbon emission accounting and offsetting services, achieving $60 million in volume from 200+ projects.
-- Engineered Carbonlink’s REST API and Typescript SDK, increasing paid subscriptions by 125%.
-- Built “Estimate AI” engine to predict emission factors in consumer products with 85% accuracy.
 
 ### USC Institute for Technology and Medical Systems, Los Angeles, CA
 **Research Scientist**, *August 2020 - September 2021*
-- Optimized convex hull algorithms for reconstructing geometries simulating neuron pathways, reducing processing time significantly.
 
 ### Northrop Grumman, Woodland Hills, CA
 **Software Engineer**, *May 2020 - August 2021*
-- Enhanced unit test procedures, identified critical faults in navigation systems, and developed an ARIMA model for signal denoising.
 
 ## My Projects
 
 ### IBM: Subscription Service Churn Prediction, **Data Scientist**
-- Identified key churn drivers and recommended strategies to reduce churn, achieving an 83% ROC-AUC with Gradient Boosting.
 
 ### Gabrielson & Company: Financial Check OCR Tool, **Data Scientist**  
-- Automated financial check filing with 89% accuracy, saving 5 hours of manual work per week.
 
 ### USC ISI: NASA CubeSat Satellite Build, **Electrical Engineer**  
-- Directed the design and integration of a solar panel array and power storage system for a micro-satellite.
 
 ## My Leadership
 
@@ -72,7 +61,7 @@ _Looking for my CV?_ [Click here](https://github.com/evangabe/evangabe/blob/38f0
 
 ### Interests: 
 
-  - 🎛️🔢 LLM Finetuning
+  - 🎛️🔢 Simulation & Modeling Software
   - 📊📲 Federated ML
   - 🏛️🪙 Quantative Finance
   - 🥾🌱 Hiking & Nature 
@@ -80,6 +69,6 @@ _Looking for my CV?_ [Click here](https://github.com/evangabe/evangabe/blob/38f0
 
 ### Actively Learning:
 
-  - 🌐📶 [Kolmogorov-Arnold Networks](https://arxiv.org/pdf/2404.19756)
+  - 🌐📶 Apache Iceberg
   - 🦀✨ Rust
-  - 🇮🇹🤌 Italian Language
+  - 🇮🇹🤌 Italian
