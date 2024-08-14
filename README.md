@@ -8,7 +8,7 @@ _Want to connect with me?_
 _Want to learn more?_ 
 
 [![Website](https://img.shields.io/badge/Portfolio-gabrielson.info-f16e50)](https://gabrielson.info)
-[![Click here](https://img.shields.io/badge/Resumé-Evan%20Gabrielson-f16e50)](https://github.com/evangabe/evangabe/blob/aab8701c2ae6e4590f6ef40b03dcc4a5378cdd93/Evan_Gabrielson_Resume_0824.pdf)
+[![Click here](https://img.shields.io/badge/Resumé-Evan%20Gabrielson-f16e50)](https://gabrielson.info/Evan_Gabrielson_Resume_0824.pdf)
 
 <br/>
 
