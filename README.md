@@ -24,6 +24,8 @@ In January 2024, operations at Carbonlink Inc. ceased due to budgetary restricti
 
 - [Building a Extract, Load, Transform (ELT) Pipeline with Airflow, dbt, Snowflake and Docker](https://gabrielson.info/spotlights/elt-pipeline-airflow)
 
+<br/>
+
 ## My Education:
 
 ### University of Southern California (USC), Los Angeles, CA
