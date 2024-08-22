@@ -74,9 +74,9 @@ In January 2024, operations at Carbonlink Inc. ceased due to budgetary restricti
 ### Skills & Awards
 |      |      |
 | ---- | ---- |
-| Programming Languages | Python, TypeScript, SQL, NoSQL, C++, Go, Rust |
-| Libraries and Tools | PyTorch, Pandas, NumPy, LangChain, AWS, AirFlow, dbt, BigQuery, Spark, Docker, Terraform, FastAPI, Git |
-| ML Architectures | Transformers (GPT, ViT, LSTM), Diffusion (DDPMs), Clustering (KNN, K-Means, GMM), CNN, XGBoost |
+| Programming Languages | Python, TypeScript, SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB), C++, Go |
+| Libraries and Tools | PyTorch, Pandas, NumPy, LangChain, Docker, Kubernetes, Airflow, Spark, Terraform, Snowflake, BigQuery, Databricks |
+| ML Architectures | Transformers (GPT, ViT), Clustering (K-Means, GMM), Timeseries (LSTM, Prophet, S-ARIMA), CNN, DNN |
 
 <br/>
 
@@ -103,6 +103,5 @@ In January 2024, operations at Carbonlink Inc. ceased due to budgetary restricti
 
 ### Actively Learning:
 
-  - 🌐📶 Apache Iceberg
   - 🦀✨ Rust
   - 🇮🇹🤌 Italian
