@@ -53,12 +53,21 @@ In January 2024, operations at Carbonlink Inc. ceased due to budgetary restricti
 
 ## My Projects
 
+<!--
 | Project Title | Repo Link | Demo Link |
 | ----- | ------- | --------- |
 | **City of LA: Savings Strategy for Parking Enforcement** | [code](https://github.com/evangabe/strategic-parking-enforcement) | COMING SOON |
 | **Predicting IBM Subscription Churn with Gradient Boosting** | [code]() | COMING SOON |
 | **Accounting Firm Financial Check OCR Service** | [code]() | COMING SOON |
 | **USC ISI: NASA CubeSat Satellite Build** |  | [website](https://www.isi.edu/centers-serc/) |
+-->
+
+| Project Title | Link |
+| ----- | ------- |
+| **City of LA: Savings Strategy for Parking Enforcement** | [code](https://github.com/evangabe/strategic-parking-enforcement) |
+| **Predicting IBM Subscription Churn with Gradient Boosting** | [code]() |
+| **Accounting Firm Financial Check OCR Service** | [code]() |
+| **USC ISI: NASA CubeSat Satellite Build** | [website](https://www.isi.edu/centers-serc/) |
 
 <br/>
 
